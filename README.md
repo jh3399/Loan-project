@@ -1,7 +1,4 @@
 # kh_loan_project
-[개발마스터] 프로젝트
-
-
 
 EXERD
 ![image](https://github.com/sunyoungads/kh_loan_project/assets/117277093/4f191af4-dbf7-4db9-a5a2-893f4fb9e1db)
